@@ -1,6 +1,9 @@
 /*
-This SQL query is used to find Data Analyst jobs in the first quarter that offer an average annual salary of over $70,000, ordered from highest salary to lowest.
+Find job postings from the first quarter that have a salary greater than 70k dollars
+- Combine job posting tables from the first quarter of 2023 (Jan-Mar)
+- Gets job postings with an average yearly salary > 70,000 dollars
 */
+
 SELECT 
     job_title_short,
     job_location,
