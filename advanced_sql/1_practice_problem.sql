@@ -1,5 +1,4 @@
 /*
-
     Problem: Write a query to find all job postings for Data Analysts and Business Analysts in Boston, MA or Anywhere with the following salary requirements:
         - Data Analyst: salary_year_avg > 100000
         - Business Analyst: salary_year_avg > 70000
